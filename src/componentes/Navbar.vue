@@ -21,7 +21,7 @@
             </li>
             
             <li class="nav-item">
-              <router-link to="/tabla">
+              <router-link to="/usuarios">
                 <a class="nav-link" href="#">Usuarios</a>
               </router-link>
             </li>   

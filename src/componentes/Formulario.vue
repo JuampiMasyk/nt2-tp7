@@ -108,7 +108,7 @@
         nombreMaxLength: 15,
         edadMin: 18,
         edadMax: 120,
-        url: 'https://633f79d2e44b83bc73bae575.mockapi.io/posts',
+        url: 'https://634271f73f83935a78433ad7.mockapi.io/personas',
 
       }
     },
